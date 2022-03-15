@@ -32,7 +32,7 @@
     "koa-swig": "^2.2.1",
     "koa2-connect-history-api-fallback": "^0.1.2",
     "lodash": "^4.17.15",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "module-alias": "^2.2.2",
     "node-bash-title": "^0.0.2",
     "yargs-parser": "^18.1.3"
